@@ -1,0 +1,15 @@
+{
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+.logInLink{
+    color: rgb(156, 92, 92,);
+}
+body{
+    background: linear-gradient(107deg, rgb(13, 198, 180)8.1%, rgb(33, 198, 138) 79.5%);
+}   
